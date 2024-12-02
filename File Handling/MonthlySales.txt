@@ -1,0 +1,118 @@
+Date: 2024-10-15
+Item:
+Matcha Latte
+Quantity: 2
+Price: 170.00
+
+Date: 2024-10-15
+Item:
+Americano
+Quantity: 3
+Price: 110.00
+
+Date: 2024-10-16
+Item:
+Hazelnut Latte
+Quantity: 4
+Price: 160.00
+
+Date: 2024-10-16
+Item:
+Mocha Coffee
+Quantity: 3
+Price: 103.00
+
+
+Date: 2024-10-17
+Item:
+Espresso
+Quantity: 5
+Price: 100.00
+
+Date: 2024-10-17
+Item:
+Iced Americano
+Quantity: 5
+Price: 120.00
+
+Date: 2024-10-18
+Item:
+Matcha Latte
+Quantity: 2
+Price: 170.00
+
+Date: 2024-10-18
+Item:
+Americano
+Quantity: 3
+Price: 110.00
+
+Date: 2024-10-19
+Item:
+Hazelnut Latte
+Quantity: 4
+Price: 160.00
+
+Date: 2024-10-19
+Item:
+Mocha Coffee
+Quantity: 3
+Price: 103.00
+
+
+Date: 2024-10-20
+Item:
+Espresso
+Quantity: 5
+Price: 100.00
+
+Date: 2024-10-20
+Item:
+Iced Americano
+Quantity: 5
+Price: 120.00
+
+
+Date: 2024-10-21
+Item:
+Spanish Latte
+Quantity: 9
+Price: 170.00
+
+Date: 2024-10-21
+Item:
+Black Americano
+Quantity: 5
+Price: 100.00
+
+
+Date: 2024-11-21
+Item:
+Americano
+Quantity: 7
+Price: 110
+Item:
+Espresso
+Quantity: 17
+Price: 100
+Item:
+Dark Coffee
+Quantity: 4
+Price: 100
+Item:
+Latte
+Quantity: 1
+Price: 140.00
+Item:
+Mocha Coffee
+Quantity: 2
+Price: 103
+
+Item:
+Spanish Latte
+Quantity: 2
+Price: 170
+Item:
+Vanilla Latte
+Quantity: 2
+Price: 150

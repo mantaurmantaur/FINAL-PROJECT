@@ -1,0 +1,1007 @@
+---END ORDER---
+Customer: jerry
+Date: 2024-11-01 22:08:43
+Items:
+Customer: janna
+Date: 2024-11-03 19:51:38
+Items:
+Iced Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150
+Total Amount: PHP 150
+---END ORDER---
+Customer: janna
+Date: 2024-11-03 19:57:24
+Items:
+Cold Brew - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: no peanuts
+Total Amount: PHP 300
+---END ORDER---
+Customer: janna
+Date: 2024-11-03 20:00:41
+Items:
+Latte - Quantity: 2, Price: PHP 140, Subtotal: PHP 280, Notes: no peanuts
+Total Amount: PHP 280
+---END ORDER---
+Customer: janna
+Date: 2024-11-03 20:01:49
+Items:
+Cappuccino - Quantity: 2, Price: PHP 130, Subtotal: PHP 260, Notes: no peanuts
+Total Amount: PHP 260
+---END ORDER---
+Customer: 
+Date: 2024-11-03 20:27:39
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220, Notes: no peanuts
+Total Amount: PHP 220
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:08:06
+Items:
+Mocha - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: no colds
+Total Amount: PHP 300
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:10:58
+Items:
+Caramel Macchiato - Quantity: 2, Price: PHP 160, Subtotal: PHP 320, Notes: no peanuts
+Total Amount: PHP 320
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:13:56
+Items:
+Affogato - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: no peanuts
+Total Amount: PHP 240
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:15:27
+Items:
+Iced Americano - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no almonds
+Total Amount: PHP 120
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:19:00
+Items:
+Matcha Latte - Quantity: 2, Price: PHP 170, Subtotal: PHP 340, Notes: no peanuts
+Total Amount: PHP 340
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:21:16
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: nop peanuts
+Total Amount: PHP 150
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:24:03
+Items:
+Flat White - Quantity: 1, Price: PHP 140, Subtotal: PHP 140, Notes: no peanuts
+Total Amount: PHP 140
+---END ORDER---
+Customer: 
+Date: 2024-11-04 14:31:41
+Items:
+Cappuccino - Quantity: 1, Price: PHP 130, Subtotal: PHP 130, Notes: more milk
+Total Amount: PHP 130
+---END ORDER---
+Customer: 
+Date: 2024-11-04 20:31:17
+Items:
+Latte - Quantity: 2, Price: PHP 140, Subtotal: PHP 280, Notes: no soy
+Total Amount: PHP 280
+---END ORDER---
+Customer: 
+Date: 2024-11-04 20:34:25
+Items:
+Espresso - Quantity: 2, Price: PHP 100, Subtotal: PHP 200, Notes: no soy
+Total Amount: PHP 200
+---END ORDER---
+Customer: 
+Date: 2024-11-04 20:38:05
+Items:
+Affogato - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Total Amount: PHP 120
+---END ORDER---
+Customer: 
+Date: 2024-11-04 20:41:59
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no soy
+Total Amount: PHP 150
+---END ORDER---
+Customer: 
+Date: 2024-11-04 20:43:15
+Items:
+Matcha Latte - Quantity: 2, Price: PHP 170, Subtotal: PHP 340, Notes: no soy
+Total Amount: PHP 340
+---END ORDER---
+Customer: 
+Date: 2024-11-04 21:08:58
+Items:
+Hazelnut Latte - Quantity: 2, Price: PHP 160, Subtotal: PHP 320, Notes: no soy 
+Total Amount: PHP 320
+---END ORDER---
+Customer: 
+Date: 2024-11-04 21:15:53
+Items:
+Affogato - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no peanuts
+Total Amount: PHP 120
+---END ORDER---
+Customer: 
+Date: 2024-11-04 21:20:24
+Items:
+Flat White - Quantity: 1, Price: PHP 140, Subtotal: PHP 140, Notes: no peanuts
+Total Amount: PHP 140
+---END ORDER---
+Customer: 
+Date: 2024-11-04 21:21:04
+Items:
+Dark Chocolate Mocha - Quantity: 1, Price: PHP 180, Subtotal: PHP 180, Notes: no peanuts
+Total Amount: PHP 180
+---END ORDER---
+Customer: 
+Date: 2024-11-04 21:23:20
+Items:
+Latte - Quantity: 1, Price: PHP 140, Subtotal: PHP 140, Notes: no peanuts
+Total Amount: PHP 140
+---END ORDER---
+Customer: 
+Date: 2024-11-12 14:40:23
+Items:
+Latte - Quantity: 2, Price: PHP 140, Subtotal: PHP 280, Notes: no peanuts
+Total Amount: PHP 280
+---END ORDER---
+Customer: 
+Date: 2024-11-12 15:09:29
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 150
+---END ORDER---
+Customer: 
+Date: 2024-11-12 15:12:17
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 150
+---END ORDER---
+Customer: maya
+Date: 2024-11-12 15:23:32
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no soy
+Total Amount: PHP 150
+---END ORDER---
+Customer: war
+Date: 2024-11-12 15:26:30
+Items:
+Caramel Macchiato - Quantity: 1, Price: PHP 160, Subtotal: PHP 160, Notes: no soy
+Total Amount: PHP 160
+---END ORDER---
+Customer: maya
+Date: 2024-11-12 19:29:20
+Items:
+Caramel Macchiato - Quantity: 2, Price: PHP 160, Subtotal: PHP 320, Notes: allergic to peanuts
+Total Amount: PHP 320
+---END ORDER---
+Customer: maya
+Date: 2024-11-12 19:29:51
+Items:
+Cold Brew - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no soy
+Total Amount: PHP 150
+---END ORDER---
+Customer: pilip
+Date: 2024-11-12 19:30:33
+Items:
+Affogato - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Total Amount: PHP 120
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 08:31:57
+Items:
+Iced Americano - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: 50% sugar
+Total Amount: PHP 240
+---END ORDER---
+Customer: 
+Date: 2024-11-13 08:40:02
+Items:
+Cappuccino - Quantity: 1, Price: PHP 130, Subtotal: PHP 130, Notes: please use soy milk
+Total Amount: PHP 130
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 08:44:26
+Items:
+Espresso - Quantity: 4, Price: PHP 100, Subtotal: PHP 400, Notes: use soy milk
+Total Amount: PHP 400
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 08:46:51
+Items:
+Dark - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: use utensils that don't touch cheese
+Total Amount: PHP 50
+---END ORDER---
+Customer: lollita
+Date: 2024-11-13 08:51:36
+Items:
+Affogato - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: almond milk
+Total Amount: PHP 240
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 21:31:14
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Total Amount: PHP 110
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 21:31:46
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no osy
+Total Amount: PHP 110
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 22:15:12
+Items:
+Matcha Latte - Quantity: 1, Price: PHP 170, Subtotal: PHP 170, Notes: no peanuts
+Total Amount: PHP 170
+---END ORDER---
+Customer: japs
+Date: 2024-11-13 22:17:50
+Items:
+Total Amount: PHP 290
+---END ORDER---
+Customer: kills
+Date: 2024-11-13 22:33:45
+Items:
+Total Amount: PHP 50
+---END ORDER---
+Customer: kills
+Date: 2024-11-13 22:35:02
+Items:
+Total Amount: PHP 110
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:19:20
+Items:
+Total Amount: PHP 500
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:27:58
+Items:
+Total Amount: PHP 800
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:27:59
+Items:
+Total Amount: PHP 800
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:27:59
+Items:
+Total Amount: PHP 800
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:28:09
+Items:
+Total Amount: PHP 800
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:28:09
+Items:
+Total Amount: PHP 800
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:28:09
+Items:
+Total Amount: PHP 800
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:46:12
+Items:
+Total Amount: PHP 240
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:46:12
+Items:
+Total Amount: PHP 240
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:46:23
+Items:
+Total Amount: PHP 240
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 00:46:23
+Items:
+Total Amount: PHP 240
+---END ORDER---
+Customer: pilip
+Date: 2024-11-14 00:54:49
+Items:
+Customer: pilip
+Date: 2024-11-14 00:54:49
+Items:
+Customer: pilip
+Date: 2024-11-14 00:55:38
+Items:
+Customer: pilip
+Date: 2024-11-14 00:55:38
+Items:
+Customer: mana
+Date: 2024-11-14 00:58:40
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+Total Amount: PHP 330
+---END ORDER---
+Customer: mana
+Date: 2024-11-14 00:58:40
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+Total Amount: PHP 330
+---END ORDER---
+Customer: habibi
+Date: 2024-11-14 01:01:25
+Items:
+Americano - Quantity: 3, Price: PHP 110, Subtotal: PHP 330, Notes: 
+habilis - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: 
+Total Amount: PHP 570
+---END ORDER---
+Customer: habibi
+Date: 2024-11-14 01:01:25
+Items:
+Americano - Quantity: 3, Price: PHP 110, Subtotal: PHP 330, Notes: 
+habilis - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: 
+Total Amount: PHP 570
+---END ORDER---
+Customer: mantamanta
+Date: 2024-11-14 01:04:06
+Items:
+Caramel Brew - Quantity: 2, Price: PHP 50, Subtotal: PHP 100, Notes: no peanuts
+Orangess - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 250
+---END ORDER---
+Customer: mantamanta
+Date: 2024-11-14 01:04:06
+Items:
+Caramel Brew - Quantity: 2, Price: PHP 50, Subtotal: PHP 100, Notes: no peanuts
+Orangess - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 250
+---END ORDER---
+Customer: mantamanta
+Date: 2024-11-14 01:13:49
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Cappuccino - Quantity: 1, Price: PHP 130, Subtotal: PHP 130, Notes: no peanuts
+Total Amount: PHP 240
+---END ORDER---
+Customer: mantamanta
+Date: 2024-11-14 01:13:49
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Cappuccino - Quantity: 1, Price: PHP 130, Subtotal: PHP 130, Notes: no peanuts
+Total Amount: PHP 240
+---END ORDER---
+Customer: pinochhio
+Date: 2024-11-14 01:15:57
+Items:
+Dark - Quantity: 2, Price: PHP 50, Subtotal: PHP 100, Notes: no soy
+habilis - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Iced Americano - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Total Amount: PHP 340
+---END ORDER---
+Customer: pinochhio
+Date: 2024-11-14 01:15:57
+Items:
+Dark - Quantity: 2, Price: PHP 50, Subtotal: PHP 100, Notes: no soy
+habilis - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Iced Americano - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Total Amount: PHP 340
+---END ORDER---
+Customer: pinochhio
+Date: 2024-11-14 01:15:57
+Items:
+Dark - Quantity: 2, Price: PHP 50, Subtotal: PHP 100, Notes: no soy
+habilis - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Iced Americano - Quantity: 1, Price: PHP 120, Subtotal: PHP 120, Notes: no soy
+Total Amount: PHP 340
+---END ORDER---
+Customer: princess
+Date: 2024-11-14 01:26:04
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Cold Brew - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: no peanuts
+Total Amount: PHP 450
+---END ORDER---
+Customer: princess
+Date: 2024-11-14 01:26:04
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no penauts
+Cold Brew - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: no penauts
+Total Amount: PHP 450
+---END ORDER---
+Customer: polka
+Date: 2024-11-14 01:28:06
+Items:
+Latte - Quantity: 1, Price: PHP 140, Subtotal: PHP 140, Notes: no peanuts
+Total Amount: PHP 140
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:51:52
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanuts
+Spanish Latte - Quantity: 2, Price: PHP 170, Subtotal: PHP 340, Notes: no peanuts
+Total Amount: PHP 440
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:51:52
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanuts
+Spanish Latte - Quantity: 2, Price: PHP 170, Subtotal: PHP 340, Notes: no peanuts
+Total Amount: PHP 440
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:56:04
+Items:
+Dark - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: almond milk please
+Orangess - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: almond milk please
+Total Amount: PHP 350
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:56:04
+Items:
+Dark - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: almond milk please
+Orangess - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: almond milk please
+Total Amount: PHP 350
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:57:13
+Items:
+Dark - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: soy milk
+Total Amount: PHP 50
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:58:17
+Items:
+Vanilla Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: please use almond milk
+Double Espresso - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: please use almond milk
+Total Amount: PHP 390
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 06:58:17
+Items:
+Vanilla Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: please use almond milk
+Double Espresso - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: please use almond milk
+Total Amount: PHP 390
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 07:01:39
+Items:
+Latte - Quantity: 1, Price: PHP 140, Subtotal: PHP 140, Notes: 50% sugar
+Total Amount: PHP 140
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 07:04:22
+Items:
+Caramel Brew - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: no peanuts
+Total Amount: PHP 50
+---END ORDER---
+Customer: pol
+Date: 2024-11-14 07:07:52
+Items:
+habilis - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: 60% sugar
+Matcha Latte - Quantity: 1, Price: PHP 170, Subtotal: PHP 170, Notes: 60% sugar
+Total Amount: PHP 410
+---END ORDER---
+Customer: pol
+Date: 2024-11-14 07:07:52
+Items:
+habilis - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: 60% sugar
+Matcha Latte - Quantity: 1, Price: PHP 170, Subtotal: PHP 170, Notes: 60% sugar
+Total Amount: PHP 410
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 07:09:31
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanuts
+Avadakedavra Coffee - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 250
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 07:09:31
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanuts
+Avadakedavra Coffee - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 250
+---END ORDER---
+Customer: princess
+Date: 2024-11-14 07:17:54
+Items:
+Avadakedavra Coffee - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: use soy milk
+Orangess - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: use soy milk
+Total Amount: PHP 300
+---END ORDER---
+Customer: princess
+Date: 2024-11-14 07:17:54
+Items:
+Avadakedavra Coffee - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: use soy milk
+Orangess - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: use soy milk
+Total Amount: PHP 300
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 08:11:05
+Items:
+Mocha - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no soy
+Total Amount: PHP 150
+---END ORDER---
+Customer: japs
+Date: 2024-11-14 16:42:23
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220, Notes: no peanuts
+Total Amount: PHP 220
+---END ORDER---
+Customer: japs
+Date: 2024-11-16 11:29:02
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220, Notes: no soy
+Total Amount: PHP 220
+---END ORDER---
+Customer: japs
+Date: 2024-11-16 11:29:35
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no soy
+Total Amount: PHP 110
+---END ORDER---
+Customer: japs
+Date: 2024-11-16 11:30:18
+Items:
+Dark Coffee - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanuts
+Total Amount: PHP 100
+---END ORDER---
+Customer: japs
+Date: 2024-11-16 12:24:52
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Total Amount: PHP 110
+---END ORDER---
+Customer: kita
+Date: 2024-11-16 12:26:05
+Items:
+Latte - Quantity: 1, Price: PHP 140, Subtotal: PHP 140, Notes: no peanuts
+Total Amount: PHP 140
+---END ORDER---
+Customer: mantar
+Date: 2024-11-16 17:14:40
+Items:
+Caramel Brew - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: no peanuts
+Vanilla Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 200
+---END ORDER---
+Customer: mantar
+Date: 2024-11-16 17:14:40
+Items:
+Caramel Brew - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: no peanuts
+Vanilla Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 200
+---END ORDER---
+Customer: polly
+Date: 2024-11-16 17:42:53
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Total Amount: PHP 110
+---END ORDER---
+Customer: pollu
+Date: 2024-11-16 17:44:26
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Total Amount: PHP 110
+---END ORDER---
+Customer: hapi
+Date: 2024-11-16 23:35:48
+Items:
+Mocha Coffe - Quantity: 1, Price: PHP 103, Subtotal: PHP 103, Notes: no peanuts
+Total Amount: PHP 103
+---END ORDER---
+Customer: japs
+Date: 2024-11-16 23:53:20
+Items:
+Caramel Brew - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: no peanuts
+Total Amount: PHP 50
+---END ORDER---
+Customer: nana
+Date: 2024-11-17 00:02:00
+Items:
+Vanilla Latte - Quantity: 2, Price: PHP 150, Subtotal: PHP 300, Notes: none
+Total Amount: PHP 300
+---END ORDER---
+Customer: mantaur
+Date: 2024-11-17 10:41:44
+Items:
+Dark Coffee - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanuts
+Total Amount: PHP 100
+---END ORDER---
+Customer: manta
+Date: 2024-11-17 14:15:51
+Items:
+Customer: manta
+Date: 2024-11-17 14:19:09
+Items:
+Customer: habi
+Date: 2024-11-17 14:24:16
+Items:
+Affogato - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: no peanuts
+Iced Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 390
+---END ORDER---
+Customer: habi
+Date: 2024-11-17 14:24:16
+Items:
+Affogato - Quantity: 2, Price: PHP 120, Subtotal: PHP 240, Notes: no peanuts
+Iced Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150, Notes: no peanuts
+Total Amount: PHP 390
+---END ORDER---
+Customer: japs
+Date: 2024-11-17 14:29:40
+Items:
+Spanish Latte - Quantity: 1, Price: PHP 170, Subtotal: PHP 170, Notes: no peanuts
+Total Amount: PHP 170
+---END ORDER---
+Customer: japi
+Date: 2024-11-17 14:33:50
+Items:
+Iced Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 168, Notes: no soy
+Total Amount: PHP 168
+---END ORDER---
+Customer: kilii
+Date: 2024-11-18 17:54:23
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100, Notes: no peanunts
+Total Amount: PHP 100
+---END ORDER---
+Customer: kill
+Date: 2024-11-18 17:55:00
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no soy
+Total Amount: PHP 110
+---END ORDER---
+Customer: hitler
+Date: 2024-11-18 19:32:29
+Items:
+Caramel Brew - Quantity: 1, Price: PHP 50, Subtotal: PHP 50, Notes: no peanuts and soy. use almond milk also if available
+Total Amount: PHP 50
+---END ORDER---
+Customer: mantag\
+Date: 2024-11-19 06:32:43
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 135, Notes: no peanuts
+Total Amount: PHP 135
+---END ORDER---
+Customer: bahandi
+Date: 2024-11-19 09:03:10
+Items:
+Mochae Latte - Quantity: 1, Price: PHP 65, Subtotal: PHP 80, Notes: no peanuts, use almond milk
+Total Amount: PHP 80
+---END ORDER---
+Customer: manta
+Date: 2024-11-19 09:20:11
+Items:
+Americano - Quantity: 1, Price: PHP 110.00, Subtotal: PHP 135.00, Sugar Level: None, Add-ons: Add-on: 25
+Americano - Quantity: 4, Price: PHP 110.00, Subtotal: PHP 458.00, Sugar Level: None, Add-ons: Add-on: 18
+Total Amount: PHP 593.00
+---END ORDER---
+Customer: manta
+Date: 2024-11-19 09:20:11
+Items:
+Americano - Quantity: 1, Price: PHP 110.00, Subtotal: PHP 135.00, Sugar Level: None, Add-ons: Add-on: 25
+Americano - Quantity: 4, Price: PHP 110.00, Subtotal: PHP 458.00, Sugar Level: None, Add-ons: Add-on: 18
+Total Amount: PHP 593.00
+---END ORDER---
+Customer: manta
+Date: 2024-11-19 09:36:12
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110, Notes: no peanuts
+Total Amount: PHP 110
+---END ORDER---
+Customer: manta
+Date: 19/11/2024 9:55:41 am
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 135
+    Sugar Level: 10%
+    Add-ons: Ice Cream
+Total Amount: PHP 135
+Notes: no peanuts
+---END ORDER---
+Customer: manta
+Date: 19/11/2024 10:01:29 am
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 10%
+    Add-ons: None
+Cappuccino - Quantity: 1, Price: PHP 130, Subtotal: PHP 145
+    Sugar Level: 10%
+    Add-ons: Pearls
+Total Amount: PHP 255
+Notes: no peanuts
+---END ORDER---
+Customer: ann
+Date: 19/11/2024 11:34:10 pm
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 10%
+    Add-ons: None
+Total Amount: PHP 110
+Notes: no peanuts
+---END ORDER---
+Customer: hunger
+Date: 20/11/2024 12:00:44 am
+Items:
+Espresso - Quantity: 2, Price: PHP 100, Subtotal: PHP 210
+    Sugar Level: None
+    Add-ons: Lemon
+Total Amount: PHP 210
+Notes: no cheese
+---END ORDER---
+Customer: hunger
+Date: 20/11/2024 12:01:22 am
+Items:
+Double Espresso - Quantity: 1, Price: PHP 120, Subtotal: PHP 120
+    Sugar Level: 100%
+    Add-ons: None
+Total Amount: PHP 120
+Notes: no peanuts
+---END ORDER---
+Customer: grumpy
+Date: 20/11/2024 12:10:51 am
+Items:
+Mocha Coffe - Quantity: 2, Price: PHP 103, Subtotal: PHP 206
+    Sugar Level: 60%
+    Add-ons: None
+Total Amount: PHP 206
+Notes: no peanuts
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 7:07:15 am
+Items:
+Caramel Frappe - Quantity: 2, Price: PHP 130, Subtotal: PHP 260
+    Sugar Level: None
+    Add-ons: None
+Total Amount: PHP 260
+Notes: none
+---END ORDER---
+Customer: jilli
+Date: 20/11/2024 7:07:46 am
+Items:
+Black Americano - Quantity: 2, Price: PHP 100, Subtotal: PHP 200
+    Sugar Level: 100%
+    Add-ons: None
+Total Amount: PHP 200
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 7:16:26 am
+Items:
+Caramel Frappe - Quantity: 2, Price: PHP 130, Subtotal: PHP 260
+    Sugar Level: 10%
+Total Amount: PHP 260
+Notes: no peanuts
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 7:18:10 am
+Items:
+Espresso - Quantity: 2, Price: PHP 100, Subtotal: PHP 200
+    Sugar Level: 50%
+Total Amount: PHP 200
+Notes: no peanuts
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 7:20:30 am
+Items:
+Espresso Con Panna - Quantity: 2, Price: PHP 110, Subtotal: PHP 220
+    Sugar Level: 100%
+Total Amount: PHP 220
+Notes: none
+---END ORDER---
+Customer: killl
+Date: 20/11/2024 7:22:38 am
+Items:
+Caramel Frappe - Quantity: 1, Price: PHP 130, Subtotal: PHP 130
+    Sugar Level: 50%
+Total Amount: PHP 130
+Notes: none
+---END ORDER---
+Customer: julis
+Date: 20/11/2024 7:26:56 am
+Items:
+Latte - Quantity: 5, Price: PHP 140, Subtotal: PHP 700
+    Sugar Level: 100%
+Total Amount: PHP 700
+Notes: none
+---END ORDER---
+Customer: julis
+Date: 20/11/2024 7:29:21 am
+Items:
+Mocha Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150
+    Sugar Level: 50%
+Espresso - Quantity: 2, Price: PHP 100, Subtotal: PHP 200
+    Sugar Level: 60%
+Total Amount: PHP 350
+Notes: nonw
+---END ORDER---
+Customer: habibi
+Date: 20/11/2024 7:35:46 am
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: 100%
+Total Amount: PHP 100
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 11:23:07 am
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: None
+Dark Coffee - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: 100%
+Total Amount: PHP 200
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 11:30:51 am
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 50%
+Cappuccino - Quantity: 3, Price: PHP 130, Subtotal: PHP 390
+    Sugar Level: 10%
+Hazelnut Latte - Quantity: 1, Price: PHP 160, Subtotal: PHP 160
+    Sugar Level: 10%
+Total Amount: PHP 660
+Notes: none
+---END ORDER---
+Customer: mantur
+Date: 20/11/2024 11:56:39 am
+Items:
+Mocha Latte - Quantity: 1, Price: PHP 150, Subtotal: PHP 150
+    Sugar Level: 60%
+Caramel Frappe - Quantity: 1, Price: PHP 130, Subtotal: PHP 130
+    Sugar Level: 50%
+Total Amount: PHP 280
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 11:58:48 am
+Items:
+Mocha - Quantity: 2, Price: PHP 150, Subtotal: PHP 300
+    Sugar Level: 50%
+Total Amount: PHP 300
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 12:00:48 pm
+Items:
+Caramel Frappe - Quantity: 1, Price: PHP 130, Subtotal: PHP 130
+    Sugar Level: 60%
+Mocha Coffe - Quantity: 1, Price: PHP 103, Subtotal: PHP 103
+    Sugar Level: 80%
+Total Amount: PHP 233
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 12:04:19 pm
+Items:
+Caramel Frappe - Quantity: 1, Price: PHP 130, Subtotal: PHP 130
+    Sugar Level: 100%
+Total Amount: PHP 130
+Notes: no peanuts
+---END ORDER---
+Customer: acer
+Date: 20/11/2024 6:24:19 pm
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 80%
+Spanish Latte - Quantity: 1, Price: PHP 170, Subtotal: PHP 170
+    Sugar Level: 30%
+Total Amount: PHP 280
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 7:58:32 pm
+Items:
+Latte - Quantity: 1, Price: PHP 140, Subtotal: PHP 140
+    Sugar Level: 30%
+Total Amount: PHP 140
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 20/11/2024 7:59:11 pm
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 80%
+Total Amount: PHP 110
+Notes: none
+---END ORDER---
+Customer: bubbles
+Date: 20/11/2024 8:30:13 pm
+Items:
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: 60%
+Matcha Latte - Quantity: 1, Price: PHP 170, Subtotal: PHP 170
+    Sugar Level: 100%
+Total Amount: PHP 270
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 21/11/2024 5:36:18 am
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 60%
+Espresso - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: 50%
+Dark Coffee - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: 100%
+Total Amount: PHP 310
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 21/11/2024 5:38:42 am
+Items:
+Latte - Quantity: 1, Price: PHP 140, Subtotal: PHP 140
+    Sugar Level: 50%
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 80%
+Total Amount: PHP 250
+Notes: none
+---END ORDER---
+Customer: jill
+Date: 21/11/2024 5:54:17 am
+Items:
+Americano - Quantity: 1, Price: PHP 110, Subtotal: PHP 110
+    Sugar Level: 100%
+Total Amount: PHP 110
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 21/11/2024 5:55:46 am
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220
+    Sugar Level: 10%
+Total Amount: PHP 220
+Notes: none
+---END ORDER---
+Customer: jill
+Date: 21/11/2024 5:56:21 am
+Items:
+Mocha Coffe - Quantity: 1, Price: PHP 103, Subtotal: PHP 103
+    Sugar Level: 100%
+Total Amount: PHP 103
+Notes: none
+---END ORDER---
+Customer: kill
+Date: 21/11/2024 6:02:13 am
+Items:
+Dark Coffee - Quantity: 1, Price: PHP 100, Subtotal: PHP 100
+    Sugar Level: 60%
+Mocha Coffe - Quantity: 1, Price: PHP 103, Subtotal: PHP 103
+    Sugar Level: 80%
+Total Amount: PHP 203
+Notes: none
+---END ORDER---
+Customer: jill
+Date: 21/11/2024 1:29:49 pm
+Items:
+Americano - Quantity: 2, Price: PHP 110, Subtotal: PHP 220
+    Sugar Level: 80%
+Dark Coffee - Quantity: 2, Price: PHP 100, Subtotal: PHP 200
+    Sugar Level: 100%
+Total Amount: PHP 420
+Notes: none
+---END ORDER---
+Customer: mantamanta
+Date: 21/11/2024 3:55:58 pm
+Items:
+Spanish Latte - Quantity: 2, Price: PHP 170, Subtotal: PHP 340
+    Sugar Level: 50%
+Vanilla Latte - Quantity: 2, Price: PHP 150, Subtotal: PHP 300
+    Sugar Level: 30%
+Total Amount: PHP 640
+Notes: none
+---END ORDER---
+Customer: jill
+Date: 21/11/2024 3:58:08 pm
+Items:
+Espresso - Quantity: 11, Price: PHP 100, Subtotal: PHP 1100
+    Sugar Level: None
+Total Amount: PHP 1100
+Notes: none
+---END ORDER---

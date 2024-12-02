@@ -1,0 +1,10 @@
+Customer: mantamanta
+Date: 21/11/2024 3:55:58 pm
+Items:
+Spanish Latte - Quantity: 2, Price: PHP 170, Subtotal: PHP 340
+    Sugar Level: 50%
+Vanilla Latte - Quantity: 2, Price: PHP 150, Subtotal: PHP 300
+    Sugar Level: 30%
+Total Amount: PHP 640
+Notes: none
+---END ORDER---

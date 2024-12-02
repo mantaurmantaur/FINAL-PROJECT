@@ -1,0 +1,14 @@
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\bin\Debug\net8.0\OOP1 Final Project.exe
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\bin\Debug\net8.0\OOP1 Final Project.deps.json
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\bin\Debug\net8.0\OOP1 Final Project.runtimeconfig.json
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\bin\Debug\net8.0\OOP1 Final Project.dll
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\bin\Debug\net8.0\OOP1 Final Project.pdb
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.AssemblyInfoInputs.cache
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.AssemblyInfo.cs
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.csproj.CoreCompileInputs.cache
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.dll
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\refint\OOP1 Final Project.dll
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.pdb
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\OOP1 Final Project.genruntimeconfig.cache
+C:\Users\ann\OneDrive\Desktop\skul stuffs\2nd year\Object Oriented Programming\Final Project\OOP1 Final Project\obj\Debug\net8.0\ref\OOP1 Final Project.dll

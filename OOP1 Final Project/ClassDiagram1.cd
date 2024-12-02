@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CoffeeShop.Program">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CoffeeMenuManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop.Manager">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAQoAEAAAAAAAAACIiAAAAABQIAAJAAAAACAIgBAAM=</HashCode>
+      <FileName>CoffeeMenuManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop.Staff">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>CoffeeMenuManagement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CoffeeShop.CustomerManager">
+    <Position X="9.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQBAAEAEEBAAEAAAAAAIQAAAAAABBAAAAAAAAAA=</HashCode>
+      <FileName>CoffeeMenuManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CoffeeShop.CoffeeMenuManagement">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoffeeMenuManagement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

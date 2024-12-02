@@ -1,0 +1,18 @@
+Americano, 11
+Cappuccino, 10
+Latte, 10
+Mocha, 13
+Caramel Macchiato, 16
+Iced Americano, 12
+Iced Caramel Macchiato, 17
+Matcha Latte, 16
+Hazelnut Latte, 15
+Espresso Con Panna, 14
+Vanilla Latte, 13
+Double Espresso, 11
+Spanish Latte, 14
+Espresso, 0
+Dark Coffee, 6
+Mocha Coffee, 7
+Black Americano, 8
+Mocha Latte, 13

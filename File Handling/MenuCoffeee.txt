@@ -1,0 +1,18 @@
+Americano,110
+Cappuccino,130
+Latte,140
+Mocha,150
+Caramel Macchiato,160
+Iced Americano,120
+Iced Caramel Macchiato,170
+Matcha Latte,170
+Hazelnut Latte,160
+Espresso Con Panna,110
+Vanilla Latte,150
+Double Espresso,120
+Spanish Latte,170
+Espresso,100
+Dark Coffee,100
+Mocha Coffee,103
+Black Americano,100
+Mocha Latte,150
